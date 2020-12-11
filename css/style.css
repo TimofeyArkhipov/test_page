@@ -126,6 +126,7 @@ body{
 
 
 .header__section__menu{
+    z-index: 2;
     list-style: none;
     display: flex;
     align-items: center;
